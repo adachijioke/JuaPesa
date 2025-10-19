@@ -1,0 +1,7 @@
+{
+  "network": "sepolia",
+  "contract": "LiquidityPool",
+  "address": "0x2D40ca5590C614744920426717f4c57F9A1378C3",
+  "deployer": "0xbd9AB8c788FdE24337421597e953c40d1B148CBC",
+  "timestamp": "2025-09-09T21:10:49.156Z"
+}
